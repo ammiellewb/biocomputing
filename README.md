@@ -1,6 +1,6 @@
 # Biological Computing
 
-Read about it <a href="https://www.notion.so/BIOLOGICAL-COMPUTING-fcfaad91a9bc4507925e9b000e44d0b4">here</a>
+Read about it <a href="https://www.notion.so/BIOLOGICAL-COMPUTING-fcfaad91a9bc4507925e9b000e44d0b4">here</a> \n
 [Basics of Biological Computing](https://medium.com/@ammiellewb/basics-of-biological-computing-93beb293ef35)
 [Biological computing or computational biology: What’s the difference?](https://medium.com/bioeconomy-xyz/biological-computing-or-computational-biology-whats-the-difference-4e774a8812f6)
 [Storing digital data in DNA: The future](https://medium.com/bioeconomy-xyz/storing-digital-data-in-dna-the-future-67e22934a2b9)
